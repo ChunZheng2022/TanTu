@@ -1,5 +1,5 @@
 # TanTu
- A Road information detect system. “Challenge Cup” Technological Innovation Competition。
+ A information detection platform integrate multiple algorithms. “Challenge Cup” Technological Innovation Competition。
 
 As we are still competing, we only release weights and datasets.
 
